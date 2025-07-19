@@ -1,15 +1,18 @@
 {
-"inputs": [
-],
-"servers": {
-      "learnpython-mcp": {
-         "command": "/home/codespace/.python/current/bin/uv",
+    "inputs": [],
+    "servers": {
+        "learnpython-mcp": {
+         "command": "/Users/nicholas/.local/bin/uv",
          "args": [
             "--directory",
             ".",
             "run",
             "server_part_2.py"
-         ],
-      }
-}
+         ]
+      },
+        "github": {
+            "type": "http",
+            "url": "https://api.githubcopilot.com/mcp/"
+        }
+    }
 }
