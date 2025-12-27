@@ -2,6 +2,10 @@
 
 A comprehensive guide to understanding and building Model Context Protocol (MCP) Servers for Python developers through interactive learning experiences.
 
+**Watch the video** walkthrough on YouTube here: [Let's Learn MCP Python Live](https://www.youtube.com/watch?v=qQZFvz4BTCY&t=2858s)
+
+Code from the **AI Engineer Paris** Talk can be found here: [Building MCP Servers for VS Code](https://github.com/microsoft/lets-learn-mcp-python/tree/main/ai-engineer-25)
+
 ## What You'll Build
 
 By the end of this tutorial series, you'll have:
@@ -27,7 +31,7 @@ Set up your development environment and understand MCP fundamentals:
 
 ---
 
-### [Part 2: Using MCP Servers - Python Study Buddy](part2-study-buddy-python.md)
+### [Part 2: Using MCP Servers - Python Study Buddy](part2-study-buddy.md)
 **⏱️ Time: 20-35 minutes**
 
 <img src="./images/study_buddy_app.png" alt="study-buddy-app" width="900" height="600">
